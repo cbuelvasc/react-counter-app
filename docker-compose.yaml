@@ -1,0 +1,10 @@
+version: "3.8"
+
+
+services:
+
+  name: 
+    image: "counter-app:v0.0.1"    
+    ports:
+      - "8080:8080"
+  
